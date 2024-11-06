@@ -12,16 +12,17 @@ A user-friendly Android application for booking and canceling train tickets, bui
 
 ### 1. **Main Screen**
 The main screen shows the options to book or cancel the ticket. 
-<img src="https://github.com/user-attachments/assets/0eae30f7-bc0a-4ca9-9bc6-ce331c1f9a43" width="40%" />
+
+<img src="https://github.com/user-attachments/assets/0eae30f7-bc0a-4ca9-9bc6-ce331c1f9a43" width="40%" height="40%" />
 
 ### 2. **Book/Cancel Ticket Screen**
 This screen is displayed when users choose to book or cancel their ticket. 
 
 #### Before selecting a seat:
-<img src="https://github.com/user-attachments/assets/83aa0834-e1ac-4097-b94d-40c2f4e7a2b6" width="40%" />
+<img src="https://github.com/user-attachments/assets/83aa0834-e1ac-4097-b94d-40c2f4e7a2b6" width="40%" height="40%" />
 
 #### After selecting a seat:
-<img src="https://github.com/user-attachments/assets/2a84f85a-1cd0-43d9-9e7e-aabed6f7d473" width="40%" />
+<img src="https://github.com/user-attachments/assets/2a84f85a-1cd0-43d9-9e7e-aabed6f7d473" width="40%" height="40%" />
 
 
 ## Seat Color Representation 🎨
